@@ -23,6 +23,6 @@ def last_evaluated_value
   puts "expert"
 end
 
-def pizza_party
+def pizza_party(arg = "cheese")
   puts "cheese"
 end
